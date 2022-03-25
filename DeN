@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8" />
+<title>DeN</title>
+</head>
+<body>
+<table cellspacing="15">
+<tr>
+<td>
+<img src="https://www.instagram.com/p/BtJwl4iHEyRpSHHZwGS0VKpQhRH5Y7Ey_vnZ-k0/?utm_medium=copy_link" with="200" alt="тут мое фото"/>
+</td>
+<td><h1>Олейник Даниил</h1>
+<p>Добрый день! Сегодня я расскажу кто я и чем занимаюсь</p>
+<p><em>Я занимаюсь спортом. Работаю на Новой Почте. Любитель музыки, иногда читаю реп</em></p></td>
+<hr>
+</tr>
+</table>
+<hr>
+
+<h2>Мои соц.сети</h2>
+<ul>
+
+<li><a href="https://instagram.com/danya_oleinik_den"target="_blank">Instagram</a></li>
+<li><a href="https://t.me/Даня Олейник">Telegram</a></li>
+
+</ul>
+<hr>
+<h2>Мои хобби</h2>
+
+<ol>
+<li>Спорт</li>
+<li>Музыка</li>
+<li>Выпечка</li>
+</ol>
+
+<h2>Опыт работы</h2>
+<table border="5">
+<tr>
+<td>Место работы</td>
+<td>Должность</td>
+<td>Годы работы</td>
+</tr>
+<tr>
+<td>Новая Почта</td>
+<td>Руководитель отделения</td>
+<td>2021-2022</td>
+</tr>
+<tr>
+<td>ЧМК ОНМУ</td>
+<td>Повар,Официант,Бармен</td>
+<td>2017-2021</td>
+</tr>
+
+</table>
+<h2>Связь со мной</h2>
+<form action="/">
+
+<label for="name">Ваше имя</label>
+<input type="text" id="name">
+
+<br>
+
+<label for="email">Ваш email</label>
+<input type="text" id="email">
+</form>
+
+<label for="text">Ваше сообщение</label>
+<textarea id="text" rows="2" cols="15"></textarea>
+<br>
+<input type="submit">
+
+</body>
+</html>
